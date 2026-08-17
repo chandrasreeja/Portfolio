@@ -1,0 +1,358 @@
+{
+  "personal": {
+    "name": "Chandra Sreeja",
+    "shortName": "Chandra Sreeja",
+    "monogram": "CS",
+    "title": "Master's in Computer Science @ UIUC",
+    "tagline": "I turn data into impact.",
+    "email": "cc215@illinois.edu",
+    "phone": "(217) 841-0692",
+    "location": "Urbana-Champaign, IL / United States",
+    "linkedin": "https://linkedin.com/in/chandrasreeja",
+    "github": "https://github.com/chandrasreeja",
+    "resumeUrl": "https://drive.google.com/file/d/1A8N1BFB8LQi4eNWNxDDSshupWmhtvTr9/view?usp=sharing",
+    "bio": [
+      "I'm a Data Engineer and Master's Student at UIUC. I enjoy turning messy data into meaningful insights, automating workflows, and solving real-world problems.",
+      "Currently a Data Engineering Intern at ADM and Master's student at UIUC with past experience at Barclays developing ETL pipelines, data models, and credit risk analytics.",
+      "Beyond work, I've conducted research with Dr. Naiman Khan at UIUC on large-scale public health and nutrition datasets."
+    ],
+    "highlights": [
+      "Data Engineering & ETL Pipelines",
+      "Python / SQL / PySpark / Kafka",
+      "LLM Systems & Applied ML",
+      "Cloud & Distributed Systems",
+      "Full-Stack Web Development",
+      "Power BI & Scientific Analytics"
+    ]
+  },
+  "education": [
+    {
+      "id": "uiuc",
+      "institution": "University of Illinois at Urbana-Champaign",
+      "degree": "Master of Computer Science",
+      "period": "2025 – 2027",
+      "gpa": "3.69 / 4.0",
+      "location": "Urbana-Champaign, IL",
+      "coursework": [
+        "Parallel Programming",
+        "Cloud Computing",
+        "Advanced Data Management",
+        "Applied Machine Learning",
+        "Systems for GenAI"
+      ],
+      "research": {
+        "title": "Graduate Researcher — SMARTHUB",
+        "mentor": "Dr. Naiman Khan",
+        "points": [
+          "Worked with large USDA food and nutrient datasets alongside Illinois school-level meal-plan data to support research on the nutritional value of foods provided through school meal programs.",
+          "Cleaned, transformed, and structured heterogeneous datasets from multiple sources to make them suitable for integrated, downstream statistical analysis.",
+          "Examined dataset schemas, variables, and cross-source relationships across food, nutrient, meal, and school-level information.",
+          "Applied Python, Pandas, NumPy, and SQL-based data processing techniques to organize, sanitize, and query large datasets.",
+          "Developed solutions for integrating public datasets with varying schemas, structures, and levels of granularity."
+        ]
+      }
+    },
+    {
+      "id": "srm",
+      "institution": "SRM Institute of Science and Technology",
+      "degree": "Bachelor of Technology in Computer Science",
+      "period": "2019 – 2023",
+      "gpa": "CGPA: 9.64 / 10",
+      "location": "Chennai, India",
+      "coursework": [
+        "Data Structures & Algorithms",
+        "Database Management Systems",
+        "Operating Systems",
+        "Computer Networks",
+        "Object Oriented Programming"
+      ],
+      "leadership": [
+        {
+          "role": "Web Development Team Lead",
+          "event": "Texus 2023 Flagship Fest",
+          "points": [
+            "Architected a full-stack web application for event ticketing, integrating Razorpay's PCI-compliant payment gateway and supporting end-to-end transactional workflows for a large-scale university event.",
+            "Managed and led a team of developers, ensuring code reviews, responsive UI delivery, and high server uptime during peak booking hours."
+          ]
+        },
+        {
+          "role": "Core Team Member",
+          "event": "Tech Vayuna (Technical Club)",
+          "points": [
+            "Organized multiple technical workshops, hackathons, and developer bootcamps for 500+ student participants.",
+            "Mentored junior students in web development fundamentals, Git/GitHub workflows, and programming problem solving."
+          ]
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "adm",
+      "company": "ADM",
+      "role": "Data Engineering Intern",
+      "period": "Jul 2026 – Aug 2026",
+      "location": "Champaign, IL",
+      "url": "https://www.adm.com",
+      "points": [
+        "Perform data preparation, transformation, and quality assurance tasks to improve consistency, organization, and usability of scientific datasets.",
+        "Automating multi-plate robot workflows and data extraction pipelines for a Chobani enzyme assay project.",
+        "Design modular Python data processing scripts to streamline lab data ingestion into centralized analytical repositories."
+      ],
+      "technologies": [
+        "Python",
+        "Pandas",
+        "Workflow Automation",
+        "Data Transformation",
+        "Scientific Data Systems"
+      ]
+    },
+    {
+      "id": "barclays-ft",
+      "company": "Barclays Global Service Center",
+      "role": "Data Engineer",
+      "period": "Jul 2023 – Jul 2025",
+      "location": "India",
+      "url": "https://www.barclays.com",
+      "points": [
+        "Built and optimized ETL pipelines for large-scale enterprise financial datasets, automating data cleaning and transformation while reducing manual operational effort by 60%.",
+        "Developed comprehensive KPI dashboards in Power BI to visualize performance trends and operational metrics for credit risk systems.",
+        "Designed relational database schemas supporting high-throughput structured analytical queries and reporting systems.",
+        "Worked across end-to-end data ingestion, transformation, modeling, automated validation, and executive reporting workflows."
+      ],
+      "technologies": [
+        "Python",
+        "SQL",
+        "ETL Pipelines",
+        "PySpark",
+        "Power BI",
+        "Data Modeling",
+        "Relational Schemas",
+        "Kafka"
+      ]
+    },
+    {
+      "id": "barclays-intern",
+      "company": "Barclays",
+      "role": "Software Engineering Intern",
+      "period": "Jul 2022 – Aug 2022",
+      "location": "India",
+      "url": "https://www.barclays.com",
+      "points": [
+        "Conducted end-to-end data validation and quality checks across 10+ core banking processes during an enterprise cloud migration.",
+        "Identified data inconsistencies and schema drift across multiple legacy source systems, creating automated reconciliation reports.",
+        "Collaborated with senior data architects to ensure zero-loss accuracy and structural integrity of migrated data."
+      ],
+      "technologies": [
+        "SQL",
+        "Data Validation",
+        "Cloud Migration",
+        "Python",
+        "Data Integrity",
+        "Quality Assurance"
+      ]
+    }
+  ],
+  "featuredProjects": [
+    {
+      "id": "pact",
+      "title": "PACT: Pruned Agent Call Throughput",
+      "category": "Featured LLM Systems Project",
+      "subtitle": "Predicting Early Exit Points in Autonomous Agent Reasoning Chains",
+      "description": "Designed and engineered an LLM-based system to significantly reduce latency in autonomous agents by predicting early exit points in reasoning chains. Implemented and fine-tuned a Phi-3-mini-based classifier to predict task readiness and dynamically prune unnecessary intermediate reasoning steps, achieving 71% readiness prediction accuracy.",
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "Phi-3-mini",
+        "Hugging Face",
+        "LLM Systems",
+        "Transformers",
+        "Prompt Tuning"
+      ],
+      "github": "https://github.com/chandrasreeja",
+      "external": null,
+      "stats": "71% Accuracy • Reduced Reasoning Steps"
+    },
+    {
+      "id": "texus",
+      "title": "Texus 2023 Event Ticketing Platform",
+      "category": "Featured Full-Stack Web Application",
+      "subtitle": "High-Concurrency Ticketing Engine with Payment Gateway",
+      "description": "Architected a full-stack web application for university event ticketing, integrating Razorpay's PCI-compliant payment gateway and supporting end-to-end transactional workflows for thousands of attendees during SRM's annual flagship fest.",
+      "technologies": [
+        "TypeScript",
+        "React",
+        "Node.js",
+        "Razorpay API",
+        "SQL",
+        "Tailwind CSS",
+        "CPanel"
+      ],
+      "github": "https://github.com/chandrasreeja",
+      "external": null,
+      "stats": "10,000+ Bookings • PCI-Compliant Payments"
+    },
+    {
+      "id": "wildfire",
+      "title": "Wildfire Image Classification System",
+      "category": "Featured Machine Learning Project",
+      "subtitle": "Deep Learning & Transfer Learning for Image Classification",
+      "description": "Developed a deep learning image classification system to distinguish wildfire images from fall foliage using pretrained ResNet-18 and ResNet-101 architectures. Performed transfer learning and fine-tuning to adapt the models to the target dataset, with image preprocessing, model training, and performance evaluation.",
+      "technologies": [
+        "Python",
+        "PyTorch",
+        "ResNet-18",
+        "ResNet-101",
+        "Deep Learning",
+        "Transfer Learning",
+        "Fine-Tuning",
+        "NumPy",
+        "Pandas",
+        "Matplotlib"
+      ],
+      "github": "https://github.com/chandrasreeja",
+      "external": null,
+      "stats": ""
+    }
+  ],
+  "noteworthyProjects": [
+    {
+      "title": "Credit Risk Automated KPI Engine",
+      "description": "Automated data ingestion and transformation pipelines supporting real-time operational KPI dashboards in Power BI for enterprise credit risk monitoring.",
+      "technologies": [
+        "Python",
+        "SQL",
+        "Power BI",
+        "ETL",
+        "Relational Schemas"
+      ],
+      "github": "https://github.com/chandrasreeja"
+    },
+    {
+      "title": "Automated Multi-Plate Robot Assaying",
+      "description": "Scripting and automation workflow for laboratory robotic assaying and scientific dataset consistency checks for Chobani enzyme research at ADM.",
+      "technologies": [
+        "Python",
+        "Data Automation",
+        "Pandas",
+        "Workflow Pipelines"
+      ],
+      "github": "https://github.com/chandrasreeja"
+    },
+    {
+      "title": "SDOH & Food Access Geospatial Explorer",
+      "description": "Interactive geospatial analytical tool mapping social determinants of health (SDOH), food access deserts, and school meal nutrition programs across Illinois counties.",
+      "technologies": [
+        "Python",
+        "GeoJSON",
+        "Pandas",
+        "Leaflet",
+        "Data Validation"
+      ],
+      "github": "https://github.com/chandrasreeja"
+    },
+    {
+      "title": "Tech Vayuna Community & Workshop Portal",
+      "description": "Event management and participant registration portal for technical club workshops, hackathons, and coding bootcamps.",
+      "technologies": [
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "WordPress",
+        "CPanel"
+      ],
+      "github": "https://github.com/chandrasreeja"
+    },
+    {
+      "title": "Cloud Data Migration Validator",
+      "description": "Automated data integrity checker and discrepancy detection tool across 10+ legacy databases during enterprise cloud migration at Barclays.",
+      "technologies": [
+        "SQL",
+        "Python",
+        "Data Quality",
+        "Cloud Migration"
+      ],
+      "github": "https://github.com/chandrasreeja"
+    },
+    {
+      "title": "Time-Series Financial Trends Predictor",
+      "description": "Predictive analytics and time series modeling for credit metrics using statistical regression and moving average forecasting.",
+      "technologies": [
+        "Python",
+        "Statsmodels",
+        "Time Series",
+        "Pandas",
+        "Matplotlib"
+      ],
+      "github": "https://github.com/chandrasreeja"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Data Engineering",
+      "icon": "Database",
+      "skills": [
+        "ETL Pipelines",
+        "Data Cleaning & Transformation",
+        "Data Modeling & Warehousing",
+        "PySpark",
+        "Kafka",
+        "AWS",
+        "Relational Schemas",
+        "Workflow Automation"
+      ]
+    },
+    {
+      "category": "Programming & Analysis",
+      "icon": "Code2",
+      "skills": [
+        "Python",
+        "SQL (PostgreSQL, MySQL)",
+        "Pandas",
+        "NumPy",
+        "TypeScript",
+        "JavaScript",
+        "C++",
+        "Git / GitHub"
+      ]
+    },
+    {
+      "category": "Research & Analytics",
+      "icon": "LineChart",
+      "skills": [
+        "Exploratory Data Analysis (EDA)",
+        "Regression Analysis",
+        "Time Series Analysis",
+        "Data Validation & Quality Checks",
+        "Statsmodels",
+        "Hypothesis Testing"
+      ]
+    },
+    {
+      "category": "Machine Learning & AI",
+      "icon": "Brain",
+      "skills": [
+        "LLMs (Phi-3-mini, Prompt Systems)",
+        "Decision Trees & Random Forests",
+        "K-Means Clustering",
+        "NLP & Text Processing",
+        "Regularization & Model Evaluation",
+        "Hugging Face & PyTorch"
+      ]
+    },
+    {
+      "category": "Web & Visualization",
+      "icon": "Layout",
+      "skills": [
+        "React / Next.js",
+        "Angular",
+        "Django",
+        "HTML5 / CSS3",
+        "Tailwind CSS",
+        "Power BI",
+        "Tableau",
+        "Matplotlib & Seaborn"
+      ]
+    }
+  ]
+}
